@@ -1,0 +1,7 @@
+train: /content/fase6_data/train/images
+val: /content/fase6_data/val/images
+test: /content/fase6_data/test/images
+nc: 2
+names:
+- copo
+- controle
