@@ -97,15 +97,18 @@ Fase6_Cap1/
 1. Mostrar `/content/fase6_data/` e `data.yaml`  
 2. Explicar os gráficos `results.png` (**30 vs 60 épocas**)  
 3. Passar pelas detecções em `runs/infer_val_e60`  
-4. Conclusões + próximos passos
+4. Conclusões + próximos passos  
+
+🎥 **Assista ao vídeo da entrega no YouTube:**  
+👉 [https://youtu.be/jMMgXYUaIvc](https://youtu.be/jMMgXYUaIvc)
 
 ---
 
 ## ✅ Checklist da entrega
-- [ ] Repositório **público** no GitHub com este README
-- [ ] Notebook nomeado: **DeivissonLima_RM565095_fase6_cap1_colab_v3.ipynb**
-- [ ] Link do vídeo no README (YouTube **não listado**)
-- [ ] Pasta **/imagens** com prints essenciais (ou Drive `/evidencias`)
+- [x] Repositório **público** no GitHub com este README  
+- [x] Notebook nomeado: **DeivissonLima_RM565095_fase6_cap1_colab_v3.ipynb**  
+- [x] Link do vídeo adicionado no README → [https://youtu.be/jMMgXYUaIvc](https://youtu.be/jMMgXYUaIvc)  
+- [x] Pasta **/imagens** com prints essenciais (ou Drive `/evidencias`)
 
 ---
 
