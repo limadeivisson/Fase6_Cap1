@@ -103,7 +103,7 @@ Fase6_Cap1/
 
 ## ✅ Checklist da entrega
 - [ ] Repositório **público** no GitHub com este README
-- [ ] Notebook nomeado: **DeivissonLima_RM565095_fase6_cap1_colab_v4.ipynb**
+- [ ] Notebook nomeado: **DeivissonLima_RM565095_fase6_cap1_colab_v3.ipynb**
 - [ ] Link do vídeo no README (YouTube **não listado**)
 - [ ] Pasta **/imagens** com prints essenciais (ou Drive `/evidencias`)
 
