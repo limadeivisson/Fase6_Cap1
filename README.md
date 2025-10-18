@@ -20,19 +20,18 @@ Fase6_Cap1/
 ├─ README.md
 ├─ .gitignore
 ├─ notebooks/
-│  └─ DeivissonLima_RM565095_fase6_cap1_colab_v4.ipynb   # Colab pronto (CPU/GPU)
+│  └─ DeivissonLima_RM565095_fase6_cap1_colab_v3.ipynb   # Colab pronto (CPU/GPU)
 ├─ scripts/                                              # utilitários (opcional)
 ├─ data/                                                 # data.yaml de exemplo (opcional)
 ├─ imagens/                                              # evidências para o relatório
 └─ assets/                                               # figuras/prints auxiliares
 ```
-> **Windows (local):** `C:\Users\deivi\Downloads\FIAP\Fase6\Fase6_Cap1`  
 > **Google Drive (projeto):** https://drive.google.com/drive/folders/1v_7_-mRXQMhjXRD-8zr-zfQlK8O52MX2?usp=drive_link
 
 ---
 
 ## ▶️ Execução rápida no Google Colab
-1. Abra **notebooks/DeivissonLima_RM565095_fase6_cap1_colab_v4.ipynb** no Colab.  
+1. Abra **notebooks/DeivissonLima_RM565095_fase6_cap1_colab_v3.ipynb** no Colab.  
 2. Execute as células **na ordem**. O notebook:
    - Instala e corrige compatibilidades do **FiftyOne** (Colab / Py3.12)
    - Faz **download** de amostras do **Open Images V7** (40 por classe → 80 imagens)
